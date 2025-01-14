@@ -3,7 +3,7 @@
 import { useRouter } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
-import logo from "@/assets/images/logo.svg"
+import logo from "@/assets/images/logo.png"
 import { FaUser, FaSignInAlt, FaSignOutAlt, FaBuilding } from 'react-icons/fa'
 import { toast } from "react-toastify";
 import destroySession from "@/app/actions/destroySession";
